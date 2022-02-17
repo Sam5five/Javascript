@@ -1,0 +1,19 @@
+El proyecto javascript está casi finalizado, hay algunas cosas que le faltan aún
+ya que se tiene la base de un programa que calcula el seguro total a cobrarle a 
+una persona pidiendo algunos datos.
+
+En el codigo se encuentran comentarios sobre que es lo que se está realizando
+conforme a esto se tiene que trabajar, el problema es que si se escribe mal el
+codigo sobre el programa no se puede revertir, y hay algunas cosas que se pueden
+revertir pero no sabriamos donde cometimos el error a la hora de escribir el codigo.
+
+Si intentamos utilizar varios archivos de textos abiertos o irlos guardando puede
+que nos confundamos a la hora de querer agregar los cambios que si funcionan, si
+vamos guardando un archivo con codigo que si sirva poco a poco a cada cierto tiempo
+puede que se nos pase por alto que tenemos que guardar los cambios.
+
+Trabajar asi puede ser no imposible pero muy dificil ese es el mayor problema, ya 
+que al encontrar problemas a la hora de escribir codigo no tenemos un controlador 
+de versiones (a menos que utilicemos el controlador de version que trae el editor
+de texto, esto en caso de que cuente con uno).
+
