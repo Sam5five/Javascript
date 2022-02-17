@@ -1,0 +1,20 @@
+1.Abrir un navegador e ingresar al Ges de Universidad
+2.Descargar las instrucciones
+3.Descargar el archivo de ejemplo
+4.leer el problema
+5.Entender el problema
+6.Pensar en posibles problemas a futuro
+7.Subir el documento a github
+8.crear un clon del repositorio
+9.crear una rama llamada master
+10.crear una rama llamada dev
+11.Crear mas ramas de prueba
+12.abrir un editor de texto para empezar a trabajar en el codigo
+13.Empezar a trabajar en orden el codigo del programa
+14.Completar en orden el codigo faltante segun las instrucciones del documento guia y comentarios del codigo
+15.hacer git merge con la rama dev cuando se este seguro que el codigo funciona bien
+16.al completar el codigo y que todo funcione correctamente hacer git merge con master
+17.hacer una comprension sobre el problema en ejercicio javascript en archivo de texto
+18.hacer un algoritmo en archivo de texto
+19.luego subir el proyecto javascript finalizado a otro repositorio javascript
+20.luego subir los archivos de texto de algoritmo y comprension del probelma al mismo
